@@ -1,0 +1,6 @@
+framework module Pods_CleanDemoProjectTests {
+  umbrella header "Pods-CleanDemoProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
